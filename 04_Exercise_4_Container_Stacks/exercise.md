@@ -8,7 +8,7 @@ To make this easier in the future, try using docker-compose.
 # Part 1: create the file
 in the same directory as your `Dockerfile` create a file called `docker-compose.yml`.
 
-Use the docker-compose reference as a guide on how the syntax works (https://docs.docker.com/compose/compose-file/compose-file-v3/)[link].
+Use the docker-compose reference as a guide on how the syntax works [https://docs.docker.com/compose/compose-file/compose-file-v3/](link).
 
 # Part 2: Write docker-compose.yml
 
